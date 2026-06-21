@@ -1,0 +1,61 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "25b2a372-51d2-430b-ae65-512766059fbc"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "1. Operational"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "4a7ec16f-36e5-435e-97fb-440fb1cc1cd0"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "2. In maintenance"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "e7049335-804f-478b-a90d-e8722787c281"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "3. Out of order"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}
